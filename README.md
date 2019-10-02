@@ -2,7 +2,8 @@
 
 ## prerequisite
 
-Java JDK installed in your system. 
+Java JDK installed in your system.
 
 ## Run
-Compile and run StudentDiary.java in src folder
+
+Compile and run StudentDiary.java in src folder via terminal.
